@@ -57,9 +57,10 @@ In this section, we delve into the technical aspects of "HealthConnect," providi
 
 The architecture of "HealthConnect" is designed to ensure a seamless user experience while optimizing healthcare management processes. The following block diagram provides a high-level overview of the application's components and their interactions: In this section, we delve into the technical aspects of "HealthConnect," providing an overview of its architecture, hardware and software requirements, and the technologies employed in its development.
 
- ![Screenshot 2023-08-31 201529](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/974ef471-8f65-4c22-b537-7f038![flow_chart](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/b07b2b03-04d0-4809-b12d-a5950bb91c83)
-640e0a4)
+ ![flow_chart](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/e011ee8d-2477-4f3a-8ce7-45f3f2be3c75)
 
+
+![Screenshot 2023-08-31 201529](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/2f21ef55-9a4b-4ea5-abc4-3d62383a258b)
 
 
 Hardware/Software Design:
@@ -158,3 +159,4 @@ These sources provided valuable insights into the healthcare industry, web devel
 ![Screenshot 2023-08-31 203244](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/5130092a-cadc-4637-b67b-38a716491e2a)
 ![Screenshot 2023-08-31 203254](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/730f2681-38b9-4ab3-97ac-befa1e50d5d1)
 ![Screenshot 2023-08-31 203314](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/cc9a4b07-c83f-404c-857f-ded21f2a3e5e)
+![Screenshot 2023-09-01 145242](https://github.com/21471A0505/HealthConnect_IBM/assets/98723571/7d74ed24-2569-4a1f-b713-2691079932a5)
